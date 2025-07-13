@@ -38,6 +38,6 @@
   </a>
 </p>
 
-![Metrics](https://github.com/akshatdhumal/akshatdhumal/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Akshat25d/Akshat25d/blob/main/github-metrics.svg)
 
 
