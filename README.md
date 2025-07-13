@@ -37,3 +37,6 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-akshat@example.com-red?style=flat&logo=gmail">
   </a>
 </p>
+
+![Metrics](https://github.com/akshatdhumal/akshatdhumal/blob/main/github-metrics.svg)
+
