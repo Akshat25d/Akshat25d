@@ -25,25 +25,15 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatdhumal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatdhumal&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshatdhumal/" target="_blank">
+  <a href="https://www.linkedin.com/in/akshat-dhumal/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-akshatdhumal-blue?style=flat&logo=linkedin">
   </a>
-  <a href="mailto:your_email@example.com" target="_blank">
+  <a href="mailto:akshatdhumal8@example.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-akshat@example.com-red?style=flat&logo=gmail">
   </a>
 </p>
